@@ -1,0 +1,9 @@
+2025-08-10 21:09:50,288 - /Users/toanly/Document/Projects/FastAPI-Learning/middleware/http.py - INFO - 127.0.0.1 - "GET / 1.1" 404 0.00s
+2025-08-10 21:09:50,358 - /Users/toanly/Document/Projects/FastAPI-Learning/middleware/http.py - INFO - 127.0.0.1 - "GET /favicon.ico 1.1" 404 0.00s
+2025-08-10 21:10:00,140 - /Users/toanly/Document/Projects/FastAPI-Learning/middleware/http.py - INFO - 127.0.0.1 - "GET /docs 1.1" 200 0.00s
+2025-08-10 21:10:00,404 - /Users/toanly/Document/Projects/FastAPI-Learning/middleware/http.py - INFO - 127.0.0.1 - "GET /openapi.json 1.1" 200 0.00s
+2025-08-10 21:11:03,063 - /Users/toanly/Document/Projects/FastAPI-Learning/middleware/http.py - INFO - 127.0.0.1 - "POST /classification/predict 1.1" 400 0.16s
+2025-08-10 21:11:05,446 - /Users/toanly/Document/Projects/FastAPI-Learning/middleware/http.py - INFO - 127.0.0.1 - "POST /classification/predict 1.1" 400 0.00s
+2025-08-10 21:15:01,256 - /Users/toanly/Document/Projects/FastAPI-Learning/middleware/http.py - INFO - 127.0.0.1 - "POST /classification/predict 1.1" 400 0.01s
+2025-08-10 21:17:28,703 - /Users/toanly/Document/Projects/FastAPI-Learning/middleware/http.py - INFO - 127.0.0.1 - "POST /classification/predict 1.1" 307 0.00s
+2025-08-10 21:17:28,711 - /Users/toanly/Document/Projects/FastAPI-Learning/middleware/http.py - INFO - 127.0.0.1 - "POST /classification/predict/ 1.1" 400 0.01s
